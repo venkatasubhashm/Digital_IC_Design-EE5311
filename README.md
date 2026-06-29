@@ -1,1 +1,50 @@
-# EE5311_Digital_IC_Design
+# EE5311 – Digital IC Design
+
+This repository contains the assignments completed as part of the course **EE5311: Digital IC Design** offered by **Prof. Ram Prasath** at **IIT Madras**.
+
+---
+
+## Tools Used
+
+- Ngspice
+- Xschem
+- KLayout
+- OpenLane
+- Sky130 PDK
+- Verilog
+
+---
+
+## Assignments
+
+- **Assignment 1** – Simulation of nMOS transfer characteristics and region of operation analysis.
+- **Assignment 2** – MOSFET output characteristics, velocity saturation analysis, and comparison of analytical and simulated models.
+- **Assignment 3** – CMOS inverter DC characteristics, noise margin extraction, and pseudo-nMOS inverter analysis.
+- **Assignment 4** – CMOS inverter transient analysis, delay optimization, and ring oscillator design.
+- **Assignment 5** – Setup time and clock-to-Q delay characterization of a D Flip-Flop.
+- **Assignment 6** – Post-layout extracted simulation of CMOS inverter and ring oscillator.
+- **Assignment 7** – Design and layout extracted simulation of a two-input NOR gate.
+- **Assignment 8** – Design and post-layout timing analysis of a 16-bit carry bypass adder.
+- **Assignment 9** – Design and verification of ripple carry, Brent-Kung, and Kogge-Stone adders.
+- **Assignment 10** – Maximum operating frequency analysis of tree adders using OpenLane and STA.
+- **Assignment 11** – False path analysis and STA optimization of a carry bypass adder synthesized using Yosys and Sky130 PDK.
+
+---
+
+## Topics Covered
+
+- CMOS Device Modeling
+- Digital Circuit Design
+- Timing Analysis
+- Layout Design
+- LVS/DRC Verification
+- Post-Layout Simulation
+- Arithmetic Circuit Design
+- ASIC Design Flow
+- Static Timing Analysis
+
+---
+
+## Author
+
+Coursework completed as part of **EE5311 – Digital IC Design** at **IIT Madras**.
