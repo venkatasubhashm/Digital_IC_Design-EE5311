@@ -1,21 +1,6 @@
-# EE5311 – Digital IC Design
+# Digital IC Design (EE5311) Winter 2025
 
-This repository contains the assignments completed as part of the course **EE5311: Digital IC Design** offered by **Prof. Ram Prasath** at **IIT Madras**.
-
----
-
-## Tools Used
-
-- Ngspice
-- Xschem
-- KLayout
-- OpenLane
-- Sky130 PDK
-- Verilog
-
----
-
-## Assignments
+This repository contains the project submissions for the course **EE5311: Digital IC Design** instructed by **Prof. Ram Prasath** in the July-Nov 2025 semester at **IIT Madras**. Brief description of each project below - 
 
 - **Assignment 1** – Simulation of nMOS transfer characteristics and region of operation analysis.
 - **Assignment 2** – MOSFET output characteristics, velocity saturation analysis, and comparison of analytical and simulated models.
@@ -29,22 +14,3 @@ This repository contains the assignments completed as part of the course **EE531
 - **Assignment 10** – Maximum operating frequency analysis of tree adders using OpenLane and STA.
 - **Assignment 11** – False path analysis and STA optimization of a carry bypass adder synthesized using Yosys and Sky130 PDK.
 
----
-
-## Topics Covered
-
-- CMOS Device Modeling
-- Digital Circuit Design
-- Timing Analysis
-- Layout Design
-- LVS/DRC Verification
-- Post-Layout Simulation
-- Arithmetic Circuit Design
-- ASIC Design Flow
-- Static Timing Analysis
-
----
-
-## Author
-
-Coursework completed as part of **EE5311 – Digital IC Design** at **IIT Madras**.
